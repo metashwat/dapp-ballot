@@ -1,0 +1,21 @@
+{
+  "name": "ballot",
+  "version": "1.0.0",
+  "description": "Built a voting ballot application with 4 NFL Teams such that there is a chairperson who is authorized to register voters. Voters have the permission to vote only after the registration process.",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "node lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "nodemailer": "^4.4.0"
+  }
+}
